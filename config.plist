@@ -112,8 +112,6 @@
                 <false/>
                 <key>AvoidRuntimeDefrag</key>
                 <true/>
-                <key>ClearTaskSwitchBit</key>
-                <false/>
                 <key>DevirtualiseMmio</key>
                 <true/>
                 <key>DisableSingleUser</key>
@@ -814,7 +812,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C029513104NJG36JA</string>
+                <string>C02026600CDJG36JA</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -828,9 +826,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02ZVEZNHX87</string>
+                <string>C02CXXY8HX87</string>
                 <key>SystemUUID</key>
-                <string>9980F09F-42AD-45F9-A355-553ACB98DAF6</string>
+                <string>03DCA867-0483-4536-AC74-8CDCBDE06B25</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
