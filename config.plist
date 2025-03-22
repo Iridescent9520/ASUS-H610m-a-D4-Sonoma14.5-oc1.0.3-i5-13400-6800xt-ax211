@@ -44,7 +44,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-GPRW.aml</string>
                 </dict>
@@ -741,7 +741,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 debug=0x100 -wegnoigpu gfxrst=1 agdpmod=pikera alcid=11</string>
+                    <string>keepsyms=1 debug=0x100 -wegnoigpu gfxrst=1 agdpmod=pikera revcpu=value alcid=11</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -812,11 +812,11 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02026600CDJG36JA</string>
+                <string>C02104401CDJG368C</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
-                <integer>0</integer>
+                <integer>3841</integer>
                 <key>ROM</key>
                 <data>MzMzMzMz</data>
                 <key>SpoofVendor</key>
@@ -826,9 +826,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02CXXY8HX87</string>
+                <string>C02F5LYNHX87</string>
                 <key>SystemUUID</key>
-                <string>03DCA867-0483-4536-AC74-8CDCBDE06B25</string>
+                <string>85F36AE6-39AE-4759-935A-F830965AEADC</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
